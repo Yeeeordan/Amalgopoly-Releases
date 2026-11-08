@@ -12,7 +12,7 @@ Nothing to install. Use a desktop browser (Chrome, Edge or Firefox). The first l
 
 This repository only hosts the playable builds. The game is in active development, so expect frequent updates. The in-game changelog lists what changed in each version.
 
-Current version: **v0.58.0**
+Current version: **v0.74.0**
 
 ## Feedback
 
